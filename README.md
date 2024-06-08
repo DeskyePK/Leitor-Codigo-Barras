@@ -1,4 +1,4 @@
-# Leito Codigo de Barras
+# Big Game Survey 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DeskyePK/Leitor-Codigo-Barras/blob/main/LICENSE) 
 
 # Sobre o projeto
@@ -7,7 +7,7 @@ Este projeto é um conversor de moeda desenvolvido em HTML, CSS e JavaScript. El
 
 
 ## Layout web
-[Web 1][https://ibb.co/NZKKYsn](https://i.ibb.co/FnPpTnr/image.png)
+[Web 1](https://i.ibb.co/FnPpTnr/image.png)
 
 
 
