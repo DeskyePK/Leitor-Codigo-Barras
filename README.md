@@ -7,7 +7,7 @@ Este projeto é um conversor de moeda desenvolvido em HTML, CSS e JavaScript. El
 
 
 ## Layout web
-[Web 1](https://i.ibb.co/FnPpTnr/image.png)
+![Web 1](https://i.ibb.co/FnPpTnr/image.png)
 
 
 
