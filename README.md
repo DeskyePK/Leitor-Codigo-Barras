@@ -5,6 +5,8 @@
 
 Este projeto é um Leitor Manual de Codigo de Barras em HTML, CSS e JavaScript. Ele permite que os usuários chequem informações referente ao codigo do produto digitado.
 
+# Pagina WEB
+https://deskyepk.github.io/Leitor-Codigo-Barras/
 
 ## Layout web
 ![Web 1](https://i.ibb.co/cDQQT1X/image.png)
